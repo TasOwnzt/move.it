@@ -28,6 +28,11 @@ export default function Home(props) {
 
         <Head>
           <title>Inicio | move.it</title>
+          <meta name="title" content="Inicio | move.it"/>
+
+          <meta property="og:title" content="Inicio | move.it"/>
+
+          <meta property="twitter:title" content="Inicio | move.it"/>
         </Head>
 
         <ExperienceBar />
