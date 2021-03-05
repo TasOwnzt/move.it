@@ -12,13 +12,13 @@ export default class MyDocument extends Document {
                     <meta property="og:type" content="website"/>
                     <meta property="og:url" content="https://move-it-tasownzt.vercel.app/"/>
                     <meta property="og:description" content="Projeto desenvolvido durante a NLW 4º da Rocketseat na trilha ReactJs"/>
-                    <meta property="og:image" content="./Screenshot.png"/>
+                    <meta property="og:image" content="https://move-it-tasownzt.vercel.app/Screenshot.png"/>
 
                     
                     <meta property="twitter:card" content="summary_large_image"/>
                     <meta property="twitter:url" content="https://move-it-tasownzt.vercel.app/"/>
                     <meta property="twitter:description" content="Projeto desenvolvido durante a NLW 4º da Rocketseat na trilha ReactJs"/>
-                    <meta property="twitter:image" content="./Screenshot.png"/>
+                    <meta property="twitter:image" content="https://move-it-tasownzt.vercel.app/Screenshot.png"/>
 
                     <link rel="shortcut icon" href="favicon.png" type="image/png" />
                     
