@@ -1,6 +1,6 @@
 # [***move.it***]()
 
-O [*move.it*]() tem a finalidade de melhorar a saúde de quem passa por longos períodos do dia na frente do computador fazendo com que o usuário tire um tempo de relaxamento e descanso ao mesmo tempo que pratica algum tipo de exercício muscular e corporal antes de voltar as tarefas.
+O [*move.it*]() tem a finalidade de melhorar a saúde de quem passa por longos períodos do dia na frente do computador fazendo com que o usuário tire um tempo de relaxamento e descanso ao mesmo tempo que pratica algum tipo de exercício corporal antes de voltar as tarefas.
 
 ## Projeto NLW Edição 4
 
@@ -15,4 +15,4 @@ Para que essa aplicação execute de forma correta é necessário que já tenha 
 * [react-dom](https://www.npmjs.com/package/react-dom) 17.0.1
 * [js-cookie](https://www.npmjs.com/package/js-cookie) 2.2.1
 
-> **Obs.:** Caso ainda não tenha o node.js instalado na máquina você deverá seguir todos os passos de instalação do programa no site da desenvolvedora [nodejs.org](https://nodejs.org/).
+> **Obs.:** Caso ainda não tenha o node.js instalado na máquina você deverá seguir todos os passos de [instalação](https://www.youtube.com/watch?v=c7P03kkrEG8) do programa e baixá-lo no site da desenvolvedora [nodejs](https://nodejs.org/) utilizando a versão LTS.
