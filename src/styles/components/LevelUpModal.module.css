@@ -49,3 +49,29 @@
     border: 0;
     font-size: 0rem;
 }
+
+.container a {
+    height: 3rem;
+    display: flex;
+
+    margin-top: 2rem;
+
+    justify-content: space-around;
+    align-items: center;
+
+    background: #2AA9E0;
+    color: var(--white);
+    padding: 1rem 2rem;
+
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: 400;
+
+    cursor: pointer;
+
+    transition: filter .2s;
+}
+
+.container a:hover {
+    filter: brightness(0.9);
+}

@@ -3,7 +3,7 @@
 
     background: var(--white);
     border-radius: 5px;
-    box-shadow: 0 0 60px rgba(0, 0, 0, 0.6);
+    /* box-shadow: 0 0 60px rgba(0, 0, 0, 0.6); */
     padding: 1.5rem 2rem;
 
     display: flex;
@@ -17,10 +17,12 @@
 .challengeNotActive {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items:center;
+    justify-content: center;
 }
 
 .challengeNotActive strong {
+    max-width: 85%;
     font-size: 1.5rem;
     font-weight: 500;
     line-height: 1.4;
@@ -28,15 +30,17 @@
 
 .challengeNotActive p {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
+    text-align: left;
     line-height: 1.4;
-    max-width: 70%;
+    max-width: 85%;
     margin-top: 3rem;
 }
 
-.challengeNotActive p jimg {
-    margin-bottom: 1rem;
+.challengeNotActive p img {
+    max-height: 60%;
+    margin-right: 1.5rem;
 }
 
 .challengeActive {
